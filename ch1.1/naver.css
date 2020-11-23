@@ -1,0 +1,60 @@
+#u_skip{position: absolute; left:-1000%; top:0; width: 0px; height: 0px;
+        font-size: 0; line-height: 0; overflow: hidden;}
+#header{
+    position: relative;
+    background: white;
+    z-index: 2000;
+    height: 213px;
+}
+.special_bg{
+    position: relative;
+    background: white;
+    width: 1190px;
+    height: 160px;
+    border-bottom: grey solid 1px;
+    
+}
+.group_flex{
+    width: 1160px;
+    position: relative;
+    background-color: ;
+    margin: 0 auto;
+    padding: 30;
+
+}
+#header .search_area{
+    position: absolute;
+    top: 50%;
+    left: 268px;
+    margin-top: -28px;
+}
+#header #service_area{
+    position: absolute;
+    top: 12px;
+    right: 27px;
+}
+#header .service_area .sa_bar{
+    float: left;
+    width: 1px;
+    height: 10px;
+    margin: 3px 7px;
+    background-color:#e4e8eb; 
+}
+#gnb {
+    position: relative;
+    width: 1190px;
+    height: 52px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+}
+.gnb_inner{
+    position: relative;
+    width: 1130px;
+    height: 100%;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+.group_nav {
+    overflow: hidden;
+    position: relative;
+    padding: 11px 220px 11px 0;
+}

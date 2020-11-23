@@ -1,0 +1,14 @@
+#top_header{
+    width: 100%;
+    height: 56px;
+}
+#top_header > .youtube_logo {
+    padding: 0 16px;
+    width: 185px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+#top_header > .youtube_search_logo{
+    
+}
